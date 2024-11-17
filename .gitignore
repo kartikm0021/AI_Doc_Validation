@@ -1,84 +1,13 @@
-# Byte-compiled files
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
-
-# Virtual environments
-.env/
-.venv/
-env/
 venv/
-ENV/
-env.bak/
-venv.bak/
+.env
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints
-
-# Pytest cache
-.pytest_cache/
-
-# Django migrations
-*.log
-*.pot
-*.pyc
-*.pyo
-*.pyd
-*.db
-*.sqlite3
-*.sqlite
-
-# Flask instance folder
-instance/
-
-# Scrapy
-.scrapy/
-
-# Sphinx documentation
-docs/_build/
-
-# PyInstaller
-*.spec
-
-# mypy
-.mypy_cache/
-
-# Coverage
-.coverage
-htmlcov/
-*.cover
-
-# Testing
-.tox/
-.nox/
-
-# Virtualenv
-*.venv/
-pip-log.txt
-pip-delete-this-directory.txt
-
-# macOS
-.DS_Store
-
-# Windows
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-
-# IDEs and editors
-.idea/
+# IDE
 .vscode/
-*.swp
-*.swo
-*.swn
-*.swd
-*.bak
+.idea/
 
-# Logs and databases
+# Logs
 *.log
-*.db
-
-# Temporary files
-*.tmp
-*.temp
-*.out
