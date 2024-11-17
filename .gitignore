@@ -11,3 +11,6 @@ venv/
 
 # Logs
 *.log
+
+# Project specific
+app/**/__pycache__/
